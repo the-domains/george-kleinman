@@ -1,0 +1,28 @@
+name: George Kleinman
+favicon: null
+layout_spectrum: 0.8154541270341724
+typography_spectrum: 0.4811478704214096
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.18100825767032802
+  lightness: 0.5579754142090678
+  saturation: 0.21534916060045362
+  rhythmicContrast: 0.8651468779426068
+purpose: []
